@@ -10,6 +10,9 @@ This application clearly shows the use of **useState**, **useEffect** and **useC
 
 I use [Vite + React](https://vitejs.dev/guide/) to create the project. To style it I use the [TailwinCSS](https://tailwindcss.com/docs/guides/vite) library.
 
+You can see this web deployed here:
+
+https://ignalog.github.io/react-hooks-tasks-deployed/
 
 ## Quick start
 
